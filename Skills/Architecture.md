@@ -1,83 +1,83 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 🎓 known
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🖐️ used
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Message Queue (MQ): 👂 heard
+  - CQRS: 👂 heard
+  - Event sourcing: 👂 heard
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
+  - Budget estimation: 👂 heard
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-in: 🎓 known
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
+  - Metric abuse: 👂 heard
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
@@ -88,13 +88,13 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
-  - Data warehouse
+  - Data warehouse: 👂 heard
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
+  - Conways Law: 👂 heard
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
