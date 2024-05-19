@@ -1,26 +1,23 @@
 ## Misc
 
 - PHP
-  - Fundamentals u
-  - XAMPP u
-  - MySQL u
+  - Fundamentals: 🖐️ used
+  - XAMPP: 🖐️ used
+  - MySQL: 🖐️ used
 - Python
-  - Fundamentals u
-  - pip u
-  - conda u
-  - Jupyter Notebook u
-  - numpy u
-  - Pytorch u
-  - Tensorflow u
-  - keras u
-  - imageai u
+  - pip: 🖐️ used
+  - conda: 🖐️ used
+  - Jupyter Notebook: 🖐️ used
+  - numpy: 🖐️ used
+  - Pytorch: 🖐️ used
+  - Tensorflow: 🖐️ used
+  - keras: 🖐️ used
+  - imageai: 🖐️ used
 - Java
-  - Fundamentals u
-  - Multithreading (Threads, Semaphores, Atomics, Barriers) u
-  - Maven u
+  - Multithreading (Threads, Semaphores, Atomics, Barriers): 🖐️ used
+  - Maven: 🖐️ used
 - Ada
-  - Fundamentals u
-  - Multithreading (tasks, Semaphores, Atomics) u
+  - Multithreading (tasks, Semaphores, Atomics): 🖐️ used
 - Javascript
   - Express
   - Mongodb

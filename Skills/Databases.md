@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
-  - Performance tuning h
-  - Migrations h
+  - Data types: 🖐️ used
+  - Performance tuning: 👂 heard
+  - Migrations: 👂 heard
   - Schema versioning
   - Backup and recovery
-  - Database scalability h
-  - Relational databases u
-  - Key-value store h
+  - Database scalability: 👂 heard
+  - Relational databases: 🖐️ used
+  - Key-value store: 👂 heard
   - Tuple store
   - Graph databases: 👂 heard
   - Object databases: 👂 heard
@@ -17,68 +17,68 @@
   - Hierarchical databases
   - In-memory databases: 👂 heard
   - Inverted index
-  - Data control language (DCL) u
-  - Data definition language (DDL) u
-  - Data manipulation language (DML) u
-  - Data query language (DQL) u
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
-  - Entity-Relationship Diagram u
-  - Normal forms k
-  - Indexing h
-  - Primary keys u
-  - Foreign keys u
-  - Transactions h
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🎓 known
+  - Indexing: 👂 heard
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 👂 heard
   - Views
-  - Subqueries k
+  - Subqueries: 🎓 known
   - Stored procedures
-  - SQL functions u
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
-  - `LIMIT` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
   - `OFFSET`
-  - `ORDER BY` u
-  - `GROUP BY` u
-  - `HAVING` h
-  - `EXISTS` u
-  - `JOIN` u
-  - `INNER JOIN` h
-  - `LEFT JOIN` h
-  - `RIGHT JOIN` h
-  - `UNION` h
-  - `DISTINCT` h
-  - `WHERE` u
-  - `LIKE` u
-  - `IN` u
-  - `BETWEEN` u
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
-  - `CHECK` h
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 👂 heard
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 👂 heard
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
+  - `UNION`: 👂 heard
+  - `DISTINCT`: 👂 heard
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 👂 heard
   - `DEFAULT`
-  - `INDEX` h
-  - `UNIQUE` h
-  - `GRANT` u
-  - `REVOKE` u
-  - `DENY` h
-  - `EXPLAIN` u
+  - `INDEX`: 👂 heard
+  - `UNIQUE`: 👂 heard
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 🖐️ used
+  - `DENY`: 👂 heard
+  - `EXPLAIN`: 🖐️ used
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL u
-  - MariaDB u
-  - MS SQL Server h
-  - Redis h
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 🖐️ used
+  - MariaDB: 🖐️ used
+  - MS SQL Server: 👂 heard
+  - Redis: 👂 heard
   - Rabbit
-  - MongoDB u
-  - Memcached h
+  - MongoDB: 🖐️ used
+  - Memcached: 👂 heard
   - Riak
   - DB2: 👂 heard
   - SQLite: 👂 heard
