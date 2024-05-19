@@ -10,12 +10,12 @@
   - Relational databases u
   - Key-value store h
   - Tuple store
-  - Graph databases h
-  - Object databases h
-  - Column databases h
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases h
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL) u
   - Data definition language (DDL) u
@@ -80,15 +80,15 @@
   - MongoDB u
   - Memcached h
   - Riak
-  - DB2 h
-  - SQLite h
+  - DB2: 👂 heard
+  - SQLite: 👂 heard
   - DynamoDB
-  - Firebase h
+  - Firebase: 👂 heard
 - Data engineering
-  - Data warehousing h
+  - Data warehousing: 👂 heard
   - Business intelligence
-  - Big data h
+  - Big data: 👂 heard
   - Data analysis
   - AI tools
-  - Cloud databases h
-  - Data Visualization h
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
