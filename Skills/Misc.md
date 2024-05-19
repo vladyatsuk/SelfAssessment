@@ -1,0 +1,26 @@
+## Misc
+
+- PHP
+  - Fundamentals u
+  - XAMPP u
+  - MySQL u
+- Python
+  - Fundamentals u
+  - pip u
+  - conda u
+  - Jupyter Notebook u
+  - numpy u
+  - Pytorch u
+  - Tensorflow u
+  - keras u
+  - imageai u
+- Java
+  - Fundamentals u
+  - Multithreading (Threads, Semaphores, Atomics, Barriers) u
+  - Maven u
+- Ada
+  - Fundamentals u
+  - Multithreading (tasks, Semaphores, Atomics) u
+- Javascript
+  - Express
+  - Mongodb

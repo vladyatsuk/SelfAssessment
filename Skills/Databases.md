@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types u
   - Performance tuning h
   - Migrations h
   - Schema versioning
   - Backup and recovery
   - Database scalability h
-  - Relational databases h
+  - Relational databases u
   - Key-value store h
   - Tuple store
   - Graph databases h
@@ -17,67 +17,67 @@
   - Hierarchical databases
   - In-memory databases h
   - Inverted index
-  - Data control language (DCL) h
-  - Data definition language (DDL) h
-  - Data manipulation language (DML) h
-  - Data query language (DQL) h
+  - Data control language (DCL) u
+  - Data definition language (DDL) u
+  - Data manipulation language (DML) u
+  - Data query language (DQL) u
 - Relational
   - Entity-Relationship Diagram u
-  - Normal forms h
+  - Normal forms k
   - Indexing h
-  - Primary keys h
-  - Foreign keys h
+  - Primary keys u
+  - Foreign keys u
   - Transactions h
   - Views
-  - Subqueries
+  - Subqueries k
   - Stored procedures
-  - SQL functions h
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h
-  - `INSERT` h
-  - `UPDATE` h
-  - `DELETE` h
-  - `LIMIT` h
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` u
   - `OFFSET`
-  - `ORDER BY` h
-  - `GROUP BY` h
+  - `ORDER BY` u
+  - `GROUP BY` u
   - `HAVING` h
-  - `EXISTS` h
-  - `JOIN` h
+  - `EXISTS` u
+  - `JOIN` u
   - `INNER JOIN` h
   - `LEFT JOIN` h
   - `RIGHT JOIN` h
   - `UNION` h
   - `DISTINCT` h
-  - `WHERE` h
-  - `LIKE` h
-  - `IN` h
-  - `BETWEEN` h
-  - `CREATE TABLE` h
-  - `ALTER TABLE` h
-  - `DROP TABLE` h
-  - `PRIMARY KEY` h
-  - `FOREIGN KEY` h
+  - `WHERE` u
+  - `LIKE` u
+  - `IN` u
+  - `BETWEEN` u
+  - `CREATE TABLE` u
+  - `ALTER TABLE` u
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
   - `CHECK` h
   - `DEFAULT`
   - `INDEX` h
   - `UNIQUE` h
-  - `GRANT` h
-  - `REVOKE` h
-  - `DENY`
-  - `EXPLAIN` h
+  - `GRANT` u
+  - `REVOKE` u
+  - `DENY` h
+  - `EXPLAIN` u
 - Engines
   - PostgreSQL h
   - Oracle h
-  - MySQL h
-  - MariaDB h
+  - MySQL u
+  - MariaDB u
   - MS SQL Server h
   - Redis h
   - Rabbit
-  - MongoDB h
+  - MongoDB u
   - Memcached h
   - Riak
   - DB2 h
