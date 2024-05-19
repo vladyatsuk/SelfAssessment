@@ -4,18 +4,18 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases h
-  - Event loop microtasks and macrotasks k
-  - Garbage collection k
-  - Node.js LTS schedule k
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules u
-  - ECMAScript modules u
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons u
+  - Modules as singletons: 🖐️ used
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
   - Files `package.json`, `package-lock.json`
@@ -23,11 +23,11 @@
   - Isolation with modularity
   - Dependency injection
   - DI containers
-  - Coupling and cohesion u
+  - Coupling and cohesion: 🖐️ used
   - Framework agnostic approach
 - Environment
-  - Command line arguments u
-  - Node.js CLI u
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console u
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`

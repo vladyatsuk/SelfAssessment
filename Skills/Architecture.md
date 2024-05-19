@@ -1,83 +1,83 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP u
-  - SOLID u
-  - GoF patterns u
-  - CQS k
-  - Leaking abstractions k
-  - Multiparadigm code u
-  - Contract programming h
-  - Platform-agnostic k
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 🎓 known
+  - Leaking abstractions: 🎓 known
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 🎓 known
   - Transport-agnostic
-  - Framework-agnostic h
-  - Code coverage h
-  - Cohesion e
-  - Coupling e
-  - Cyclomatic complexity h
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
-  - Law of Demeter (LoD) u
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 🖐️ used
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code k
-  - Multilayer approach h
-  - Hexagonal architecture h
-  - Separation of concerns (SoC) h
-  - Metaprogramming h
-  - Inversion of control (IoC) h
-  - Dependency injection (DI) u
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 👂 heard
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ) h
-  - CQRS h
-  - Event sourcing h
-  - E-R data modeling h
-  - Entity-relationship diagram k
+  - Message Queue (MQ): 👂 heard
+  - CQRS: 👂 heard
+  - Event sourcing: 👂 heard
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation h
-  - Distributed systems k
-  - High-intensive computing k
-  - Load balancing k
+  - Budget estimation: 👂 heard
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
-  - IaaS h
-  - PaaS h
-  - SaaS h
-  - FaaS clouds h
-  - Serverless h
-  - Vendor lock-in k
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
+  - FaaS clouds: 👂 heard
+  - Serverless: 👂 heard
+  - Vendor lock-in: 🎓 known
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
-  - Process modelling h
-  - Data modelling h
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds k
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code h
-  - No-code h
-  - Metric h
-  - Metric abuse h
-  - ACID k
-  - CAP theorem k
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
+  - Metric: 👂 heard
+  - Metric abuse: 👂 heard
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
@@ -88,13 +88,13 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
-  - Data warehouse h
+  - Data warehouse: 👂 heard
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law h
-  - Quality assurance h
+  - Conways Law: 👂 heard
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
