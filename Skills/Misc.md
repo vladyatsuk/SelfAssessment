@@ -1,0 +1,23 @@
+## Misc
+
+- PHP
+  - Fundamentals: 🖐️ used
+  - XAMPP: 🖐️ used
+  - MySQL: 🖐️ used
+- Python
+  - pip: 🖐️ used
+  - conda: 🖐️ used
+  - Jupyter Notebook: 🖐️ used
+  - numpy: 🖐️ used
+  - Pytorch: 🖐️ used
+  - Tensorflow: 🖐️ used
+  - keras: 🖐️ used
+  - imageai: 🖐️ used
+- Java
+  - Multithreading (Threads, Semaphores, Atomics, Barriers): 🖐️ used
+  - Maven: 🖐️ used
+- Ada
+  - Multithreading (tasks, Semaphores, Atomics): 🖐️ used
+- Javascript
+  - Express
+  - Mongodb
